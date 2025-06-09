@@ -8,4 +8,6 @@ class User{
 	
 	String name = "java";
 	
+	int i = 100;
+	
 }
