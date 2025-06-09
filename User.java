@@ -7,5 +7,8 @@ class User{
 	int c = 30;
 	
 	String name = "java";
+
+	int i = 10;
+	int j = 20;
 	
 }
